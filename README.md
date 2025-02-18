@@ -16,7 +16,7 @@ Com esses dados, a calculadora vai estimar a quantidade de calorias que seu corp
 💡 Como Usar?
 Clone o repositório para o seu computador:
 
-bash
+bash:
 Copiar código
 git clone https://github.com/seu-usuario/calculadora-bmr.git
 Navegue até a pasta do projeto:
