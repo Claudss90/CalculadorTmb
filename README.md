@@ -111,11 +111,3 @@ Estou sempre em busca de melhorias! Aqui estão algumas ideias que podem ser imp
 🛠️ Contribuindo
 Se você quiser ajudar a melhorar este projeto, fique à vontade para enviar pull requests com melhorias, correções ou novas funcionalidades! Vamos construir juntos!
 
-🎉 Agradecimentos
-Agradeço a todos que contribuíram para o desenvolvimento desse projeto, seja diretamente ou indiretamente, e a você que está utilizando essa ferramenta para melhorar sua saúde!
-
-📄 Licença
-Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para mais detalhes.
-
-🌟 Siga a jornada da saúde!
-Não se esqueça de cuidar do seu corpo e entender como ele funciona! O primeiro passo para uma vida saudável começa com o conhecimento. Use a calculadora e ajuste sua dieta e atividades conforme necessário!
